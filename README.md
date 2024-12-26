@@ -14,7 +14,7 @@ The project is structured into three main analyses:
 2. **Sentiment Analysis**  
    Measure the balance between positive and negative sentiment, and identify semantic links between sentiment and specific narratives.
 3. **GPT-Powered Insights**  
-   Use GPT (Generative Pre-trained Transformer) to simulate an analysis and compare its findings to the original 2019 results.
+   Use GPT to simulate an analysis and compare its findings to the original 2019 results.
 
 ## **Dataset**
 - **Source:** Comments from the last 10 Instagram posts by Lionel Messi featuring him in an Argentina jersey (2018-2019).
