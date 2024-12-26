@@ -1,6 +1,6 @@
 # Messi Love & Hate Analysis
 
-This project explores the polarization (or "grieta" in spanish) in public sentiment surrounding Lionel Messi in Argentina, particularly after the 2018 FIFA World Cup. The analysis was commissioned by a sponsor concerned about associating its brand with Messi's image due to perceived societal division around his persona.
+This project, conducted in 2019, explores the polarization (or "grieta" in spanish) in public sentiment surrounding Lionel Messi in Argentina, particularly after the 2018 FIFA World Cup. The analysis was commissioned by a sponsor concerned about associating its brand with Messi's image due to perceived societal division around his persona.
 
 ## **Research Question**
 Does a polarization exist in the public discourse about Messi? Specifically:
