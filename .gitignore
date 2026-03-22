@@ -1,1 +1,24 @@
+# Data (too large for git)
 *.csv
+data/raw/*
+!data/raw/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# Claude Code
+CLAUDE.md
+
+# NLP model artifacts (regenerable)
+results/messi_2dim

@@ -1,2 +1,13 @@
 pandas
+numpy
+matplotlib
+seaborn
 nltk
+scikit-learn
+gensim
+wordcloud
+langdetect
+tqdm
+joblib
+stop-words
+Pillow
